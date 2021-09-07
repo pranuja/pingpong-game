@@ -27,7 +27,7 @@ right_pad = turtle.Turtle()
 right_pad.speed(0)
 right_pad.shape("square")
 right_pad.color("#39FF14")
-right_pad.shapesize(stretch_wid=6, stretch_len=1,stretch_edge=5)
+right_pad.shapesize(stretch_wid=6, stretch_len=1)
 right_pad.penup()
 right_pad.goto(400, 0)
 
